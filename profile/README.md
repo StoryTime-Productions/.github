@@ -50,4 +50,4 @@ We are students and developers from engineering, computational arts, and multime
 | Marketing      | Kiararara   |
 
 
-<p align="center"><i>StoryTime Productions © 2025</i></p>
+<p align="center"><i>StoryTime Productions © 2026</i></p>

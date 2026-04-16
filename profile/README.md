@@ -1,6 +1,6 @@
 <img width="1172" height="582" alt="image" src="https://github.com/user-attachments/assets/cb88f4b7-869f-4c37-93bf-f6a046d40bca" />
+<br><br>
 
-<br>
 
 <p align="center">
 	<img alt="projects" src="https://badgen.net/badge/projects/8/3b82f6">
@@ -22,11 +22,15 @@ We are students and developers from engineering, computational arts, and multime
 
 - NugRunGun: [LINK](https://github.com/StoryTime-Productions/NugRunGun)
 - DeepCore: [LINK](https://github.com/StoryTime-Productions/DeepCore)
+- Stweaks: [LINK](https://github.com/StoryTime-Productions/Stweaks)
+- PackageGames: [LINK](https://github.com/StoryTime-Productions/PackageGames)
+- Labyrinth of Sorrows: [LINK](https://github.com/StoryTime-Productions/labyrinthofsorrows)
 
 ### In Development
 
 - st-tools: Internal Project Tracking Tool
 - Sailcore: Multiplayer Pirate Survival Game
+- Prochaine Station: STM-Inspired Horror Walker Game
 - Prop by Blocklight: DbD + Prop Hunt Minecraft Minigame Plugin
 
 ## Links

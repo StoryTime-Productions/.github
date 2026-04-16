@@ -42,12 +42,13 @@ We are students and developers from engineering, computational arts, and multime
 
 ## Team
 
-| Role           | Team Member |
-| -------------- | ----------- |
-| Programmer     | Niravanaa   |
-| Audio/Modeling | getll       |
-| Marketing      | Tracey1217  |
-| Marketing      | Kiararara   |
+| Role           | Team Member    |
+| -------------- | -------------- |
+| Programmer     | Niravanaa      |
+| Audio/Modeling | getll          |
+| Marketing      | Tracey1217     |
+| Marketing      | Kiararara      |
+| Art            | LavenderMadder |
 
 
 <p align="center"><i>StoryTime Productions © 2026</i></p>
